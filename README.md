@@ -88,6 +88,7 @@ Focus areas:
 Project writeup:
 
 [Pi-hole Policy Pipeline](projects/pihole-policy-pipeline.md)
+https://github.com/Shaw4552/pihole-policy-pipeline
 
 ---
 
