@@ -107,7 +107,9 @@ Focus areas:
 
 Project writeup:
 
+
 [Network Design Notes](projects/network-design.md)
+https://github.com/Shaw4552/network-segmentation-design
 
 ---
 
