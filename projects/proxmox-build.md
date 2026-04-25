@@ -68,10 +68,10 @@ These were resolved through disk wiping, BIOS review, repository cleanup, and cl
 
 ---
 
-## Next Steps
+Next Steps
 
-- Build Windows recovery VM
-- Install Docker on Ubuntu VM
-- Add monitoring
-- Document backup strategy
-- Deploy DNS and infrastructure services
+Build Windows recovery VM (in progress – see windows-vm-baseline.md)
+Install Docker on Ubuntu VM
+Add monitoring
+Document backup strategy
+Deploy DNS and infrastructure services
