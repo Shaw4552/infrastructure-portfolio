@@ -1,8 +1,15 @@
 # Homelab Infrastructure Portfolio
 
+> **Portfolio Progression Project**
+>
+> This repository represents an earlier stage of my infrastructure engineering work. It is retained to document the progression from individual virtualization, DNS, networking, and automation projects toward the integrated multi-site environment documented in my current portfolio.
+>
+> Current flagship project: [Enterprise-Style Homelab Infrastructure](https://github.com/Shaw4552/homelab-public)
+
+
 ## About This Repository
 
-This repository is the public landing page for my homelab infrastructure projects.
+This repository documents several foundational homelab infrastructure projects and design exercises.
 
 My goal is to document real-world infrastructure work using enterprise-style practices, including:
 
@@ -19,7 +26,7 @@ Sensitive details such as real IP addresses, hostnames, keys, VPN configs, and p
 
 ---
 
-## Current Lab Focus
+## Focus at This Stage
 
 I am building a production-style homelab environment to strengthen my skills in:
 
@@ -47,7 +54,6 @@ Focus areas:
 - NVMe VM storage
 - Ubuntu Server VM deployment
 - SSH-based administration
-
 Project writeup:
 
 [Proxmox Build Notes](projects/proxmox-build.md)
@@ -69,7 +75,7 @@ Focus areas:
 
 Project writeup:
 
-[DNS Stack Notes](projects/dns-stack.md)
+[DNS Infrastructure Stack](https://github.com/Shaw4552/dns-infrastructure-stack)
 
 ---
 
@@ -87,8 +93,7 @@ Focus areas:
 
 Project writeup:
 
-[Pi-hole Policy Pipeline](projects/pihole-policy-pipeline.md)
-https://github.com/Shaw4552/pihole-policy-pipeline
+[Pi-hole Policy Pipeline](https://github.com/Shaw4552/pihole-policy-pipeline)
 
 ---
 
@@ -107,10 +112,7 @@ Focus areas:
 - Site-to-site planning
 
 Project writeup:
-
-
-[Network Design Notes](projects/network-design.md)
-https://github.com/Shaw4552/network-segmentation-design
+[Network Segmentation Design](https://github.com/Shaw4552/network-segmentation-design)
 
 ---
 
